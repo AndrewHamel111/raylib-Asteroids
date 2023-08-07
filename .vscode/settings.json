@@ -1,0 +1,30 @@
+{
+	"files.exclude": {
+		"**/.git": true,
+		"**/.svn": true,
+		"**/.hg": true,
+		"**/CVS": true,
+		"**/.DS_Store": true,
+	},
+	"files.associations": {
+		"stdio.h": "c",
+		"*.m": "c",
+		"defines.h": "c",
+		"raylib.h": "c",
+		"raymath.h": "c",
+		"raygui.h": "c",
+		"game_asteroids.h": "c",
+		"asteroid.h": "c",
+		"debug.h": "c",
+		"constants.h": "c",
+		"projectile.h": "c",
+		"string_view": "c",
+		"game_projectiles.h": "c",
+		"game_score.h": "c",
+		"game_player.h": "c",
+		"player.h": "c",
+		"time.h": "c",
+		"game_ui.h": "c",
+		"game.h": "c"
+	}
+}
